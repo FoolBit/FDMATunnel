@@ -1,0 +1,10 @@
+# My IP
+host = "127.0.0.1"
+port = 8002
+
+# server IP
+dest_host = "127.0.0.1"
+dest_port = 8000
+
+#
+DEBUG = 1
